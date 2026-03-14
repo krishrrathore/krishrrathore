@@ -2,9 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20There!%20I'm%20Krish%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Aspiring%20Data%20Scientist%20%7C%20B.Com%20Student%20%7C%20Data%20Enthusiast&descAlignY=55&descSize=16" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=500&lines=Turning+Data+into+Insights+📊;Aspiring+Data+Scientist+🚀;B.Com+%2B+Data+Analytics+Student+📚;Always+Learning%2C+Always+Growing+🌱" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=500&lines=Turning+Data+into+Insights+%F0%9F%93%8A;Aspiring+Data+Scientist+%F0%9F%9A%80;B.Com+%2B+Data+Analytics+Student+%F0%9F%93%9A;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
 
 <br/>
 
