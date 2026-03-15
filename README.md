@@ -1,84 +1,83 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20There!%20I'm%20Krish%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Aspiring%20Data%20Scientist%20%7C%20B.Com%20Student%20%7C%20Data%20Enthusiast&descAlignY=55&descSize=16" />
+# Krish Rathore
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=500&lines=Turning+Data+into+Insights+%F0%9F%93%8A;Aspiring+Data+Scientist+%F0%9F%9A%80;B.Com+%2B+Data+Analytics+Student+%F0%9F%93%9A;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
+**Aspiring Data Scientist · B.Com + Data Analytics**
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishrrathore1606)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krishrrathore)
-[![Profile Views](https://komarev.com/ghpvc/?username=krishrrathore&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/krishrrathore)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishrrathore1606)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/krishrrathore)
+[![Profile Views](https://komarev.com/ghpvc/?username=krishrrathore&label=Profile+Views&color=0e75b6&style=flat-square)](https://github.com/krishrrathore)
 
 </div>
 
 ---
 
-## 🙋‍♂️ About Me
+## About Me
 
-```python
-krish = {
-    "name"        : "Krish Rathore",
-    "education"   : "B.Com + Data Analytics",
-    "goal"        : "Aspiring Data Scientist 🎯",
-    "currently"   : "Learning Python, SQL & Machine Learning",
-    "ask_me"      : ["Data Analysis", "Excel", "SQL", "Python"],
-    "fun_fact"    : "If I'm not analyzing data, I'm thinking about it! 📊",
-    "pronouns"    : "He / Him"
-}
-```
+I'm a B.Com student specializing in Data Analytics, working toward a career in Data Science. My focus is on transforming raw data into meaningful insights that drive decisions. I enjoy working across the full data workflow — from querying and cleaning to visualization and analysis.
+
+- 🎯 &nbsp;**Goal:** Data Scientist
+- 📚 &nbsp;**Currently Studying:** Python · SQL · Machine Learning
+- 💬 &nbsp;**Ask Me About:** Data Analysis · Excel · SQL · Python
+- 📍 &nbsp;**Pronouns:** He / Him
 
 ---
 
-## 🛠️ Tech Stack & Tools
-
-<div align="center">
+## Tech Stack
 
 **Languages & Querying**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
 
 **Data & Analytics**
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 **Tools & Platforms**
 
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## Currently Learning
+
+| Area | Focus |
+|------|-------|
+| Machine Learning | Supervised & unsupervised models with Scikit-learn |
+| Data Visualization | Matplotlib & Seaborn for analytical storytelling |
+| Advanced SQL | Window functions, CTEs, query optimization |
+| Cloud | Data workflow fundamentals |
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![Krish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishrrathore&show_icons=true&theme=default&hide_border=true&count_private=true)
+&nbsp;&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishrrathore&layout=compact&hide_border=true&theme=default)
 
 </div>
 
 ---
 
-## 🌱 Currently Learning
+## Let's Connect
 
-- 📈 **Machine Learning** with Scikit-learn
-- 📉 **Data Visualization** with Matplotlib & Seaborn
-- 🗄️ **Advanced SQL** — window functions, CTEs
-- ☁️ **Cloud basics** for data workflows
+I'm always open to collaborating on data projects, discussing analytics, or just connecting with like-minded learners.
 
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishrrathore1606)
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishrrathore1606)
 
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
-
+<sub>⭐ If you find my work useful, consider starring a repository!</sub>
 </div>
