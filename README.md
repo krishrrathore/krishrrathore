@@ -20,7 +20,7 @@ I'm focused on data analysis — turning raw data into clear, actionable insight
 - 📚 &nbsp;**Currently Studying:** Python · SQL
 - 💬 &nbsp;**Ask Me About:** Data Analysis · Excel · SQL · Python · Statistics
 - 📧 &nbsp;**Email:** krishrrathore7795@gmail.com
-- 📍 &nbsp;**Pronouns:** He / Him
+- 📍 &nbsp;**Pronouns:** He / Him / His
 
 ---
 
